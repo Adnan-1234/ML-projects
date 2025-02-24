@@ -13,7 +13,7 @@ The diabetes.py script focuses on predicting the likelihood of diabetes in indiv
 This Python file analyzes heart disease data to predict whether an individual has heart disease or not. It uses factors like cholesterol levels, blood pressure, and age to make predictions.
 
 5. resume read.py
-This script extracts relevant information from resumes (e.g., name, experience, education) using natural language processing (NLP). It helps in automated processing of resumes for recruitment.
+This script extracts relevant information from resumes  using natural language processing (NLP). It helps in automated processing of resumes for recruitment.
 
 6. twitter.py
 The twitter.py file performs sentiment analysis on tweets. It classifies tweets as positive, neutral, or negative based on the sentiment expressed in the text using machine learning algorithms.
